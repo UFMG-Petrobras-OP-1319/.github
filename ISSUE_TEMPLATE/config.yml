@@ -1,8 +1,8 @@
 blank_issues_enabled: false
 contact_links:
-  - name: 💬 Ask a question / Get help
-    url: https://github.com/UFMG-Petrobras-OP-1319/[your-repo]/discussions
-    about: Not a bug or feature? Start a discussion instead.
-  - name: 📖 Documentation
+  - name: "💬 Ask a question"
+    url: https://github.com/UFMG-Petrobras-OP-1319
+    about: "Start a discussion instead"
+  - name: "📖 Documentation"
     url: https://docs.your-project.com
-    about: Check the docs before opening an issue.
+    about: "Check the docs first"
