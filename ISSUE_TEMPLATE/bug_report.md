@@ -4,7 +4,6 @@ about: Something is broken or behaving unexpectedly
 title: "[Bug] <short description>"
 labels: ["bug", "needs-triage"]
 assignees: ""
-
 ---
 
 ## What happened?

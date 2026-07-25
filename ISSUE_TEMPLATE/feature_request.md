@@ -4,7 +4,6 @@ about: Propose a new feature or improvement
 title: "[Feature] <short description>"
 labels: ["enhancement", "needs-triage"]
 assignees: ""
-
 ---
 
 ## Problem statement
